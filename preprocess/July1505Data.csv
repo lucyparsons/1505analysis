@@ -1,4 +1,4 @@
-,check,amount,Purchase,Category,FOIA No,Link,Notes,Redaction,requested by,requested date,First Response,Received Date,Muckrock Link
+Check Date,Check number,Amount in $,Purchase,Category,FOIA No,Link,Notes,Redaction,Requested by,Requested Date,First Response,Received Date,Muckrock Link
 1/4/2010,14425,9423.8,computer purchase,Routine,15-6708,14425.pdf,4 macbook pros,,Michael Morisey,10/31/15,11/23/15,12/2/15,https://www.muckrock.com/foi/chicago-169/1505ml-checks-14425-through-14452-22173/
 1/5/2010,14428,6297.69,server purchase,Routine,15-6708,14428.pdf,for filemaker,,Michael Morisey,10/31/15,11/23/15,12/2/15,https://www.muckrock.com/foi/chicago-169/1505ml-checks-14425-through-14452-22173/
 1/6/2010,14443,6292.58,AT&T trunking,Routine,15-6708,14443.pdf,,,Michael Morisey,10/31/15,11/23/15,12/2/15,https://www.muckrock.com/foi/chicago-169/1505ml-checks-14425-through-14452-22173/
@@ -12,7 +12,7 @@
 2/3/2010,14506,38448.49,Phones,Routine,15-6526,14506.pdf,,,,,,,
 2/3/2010,14509,36673.28,Phones,Routine,15-6526,14509.pdf,,,,,,,
 2/17/2010,14535,8500,Lexis Nexis,Surveillance,15-6526,14535.pdf,,,,,,,
-2/17/2010,14536,13720,ALPR,Surveillance,15-6526,14536.pdf,homan sq,Marked as Check #14538 in Freddy doc,,,,,
+2/17/2010,14536,13720,ALPR,Surveillance,15-6526,14536.pdf,Homan Square but Marked as Check #14538 in Freddy doc,,,,,
 2/19/2010,14554,13968,ocd vision,?,15-6526,14554.pdf,what is ocd vision db,,,,,,
 2/19/2010,14555,11174.4,ocd vision,?,15-6526,14555.pdf,,,,,,,
 2/23/2010,14562,129240.15,Enterprise,Routine,P048638,14562.pdf,,,Kayvis Damptey,6/10/16,,6/20/16,Personal e-mail
@@ -80,7 +80,7 @@
 9/27/2010,15120,9600,car repair,routine,16-0191,15120.pdf,,,Freddy Martinez,1/10/16,1/19/16,1/27/16,https://www.muckrock.com/foi/chicago-169/1505-checks-15062-to-15127-23356/#comms
 9/27/2010,15121,16075,camera equipment,surveillance,16-0191,15121.pdf,,,Freddy Martinez,1/10/16,1/19/16,1/27/16,https://www.muckrock.com/foi/chicago-169/1505-checks-15062-to-15127-23356/#comms
 9/29/2010,15127,157300,Stingray ,surveillance,16-0191,15127.pdf,,,Freddy Martinez,1/10/16,1/19/16,1/27/16,https://www.muckrock.com/foi/chicago-169/1505-checks-15062-to-15127-23356/#comms
-10/1/2010,15139,7060,postal equipment,routine,16-0190,15139.pdf,"""Those items are normally funded by Chicago HIDTAm however; this years budget cuts have eliminated funds for equipment""",,Freddy Martinez,1/10/16,1/20/16,1/27/16,https://www.muckrock.com/foi/chicago-169/1505-checks-15139-to-15179-23357/#comms
+10/1/2010,15139,7060,postal equipment,routine,16-0190,15139.pdf,"""Those items are normally funded by Chicago HIDTA however; this years budget cuts have eliminated funds for equipment""",,Freddy Martinez,1/10/16,1/20/16,1/27/16,https://www.muckrock.com/foi/chicago-169/1505-checks-15139-to-15179-23357/#comms
 10/7/2010,15150,5326.62,car repair,routine,16-0190,15150.pdf,,,Freddy Martinez,1/10/16,1/20/16,1/27/16,https://www.muckrock.com/foi/chicago-169/1505-checks-15139-to-15179-23357/#comms
 10/7/2010,15155,125941.02,enterprise,routine,16-0190,15155.pdf,,,Freddy Martinez,1/10/16,1/20/16,1/27/16,https://www.muckrock.com/foi/chicago-169/1505-checks-15139-to-15179-23357/#comms
 10/8/2010,15157,205000,PODs,surveillance ,16-0190,15157.pdf,,,Freddy Martinez,1/10/16,1/20/16,1/27/16,https://www.muckrock.com/foi/chicago-169/1505-checks-15139-to-15179-23357/#comms
@@ -468,16 +468,16 @@
 6/15/2015,18087,665950.75,,,,,,,Tom Bumstead,5/31/16,,,Personal e-mail
 6/15/2015,18088,6299.4,,,,,,,Tom Bumstead,5/31/16,,,Personal e-mail
 6/15/2015,18089,136375,,,,,,,Tom Bumstead,5/31/16,,,Personal e-mail
-6/19/2015,18091,8500,Lexis Nexis,Surveillance,P048112,18331.pdf,,,John BUmstead,5/31/16,,,https://www.muckrock.com/foi/chicago-169/1505ml-checks-18091-18147-25970/
-6/19/2015,18093,6834.09,"??????????  ""bulk narcotics destruction""???",??????,P048112,18093.pdf,,Overredaction,John BUmstead,5/31/16,,,https://www.muckrock.com/foi/chicago-169/1505ml-checks-18091-18147-25970/
-6/22/2015,18097,15504.01,Phones,Routine,P048112,18097.pdf,,,John BUmstead,5/31/16,,,https://www.muckrock.com/foi/chicago-169/1505ml-checks-18091-18147-25970/
-6/24/2015,18106,5705.75,Lexis Nexis,Surveillance,P048112,18106.pdf,,,John BUmstead,5/31/16,,,https://www.muckrock.com/foi/chicago-169/1505ml-checks-18091-18147-25970/
-7/1/2015,18108,108794.29,Enterprise rentals,Routine,P048112,18108.pdf,,,John BUmstead,5/31/16,,,https://www.muckrock.com/foi/chicago-169/1505ml-checks-18091-18147-25970/
-7/9/2015,18120,6174.55,"??????????  ""narcotics related investigations""???",??????,P048112,18120.pdf,,Overredaction,John BUmstead,5/31/16,,,https://www.muckrock.com/foi/chicago-169/1505ml-checks-18091-18147-25970/
-7/10/2015,18123,5154.9,Sony cameras and equipment,??????,P048112,18123.pdf,,,John BUmstead,5/31/16,,,https://www.muckrock.com/foi/chicago-169/1505ml-checks-18091-18147-25970/
-7/16/2015,18132,8616.01,Dell computers,Routine,P048112,18132.pdf,,,John BUmstead,5/31/16,,,https://www.muckrock.com/foi/chicago-169/1505ml-checks-18091-18147-25970/
-7/16/2015,18134,5411.2,Dell computers,Routine,P048112,18134.pdf,,,John BUmstead,5/31/16,,,https://www.muckrock.com/foi/chicago-169/1505ml-checks-18091-18147-25970/
-7/20/2015,18147,61771.34,Phones,Routine,P048112,18147.pdf,,,John BUmstead,5/31/16,,,https://www.muckrock.com/foi/chicago-169/1505ml-checks-18091-18147-25970/
+6/19/2015,18091,8500,Lexis Nexis,Surveillance,P048112,18331.pdf,,,John Bumstead,5/31/16,,,https://www.muckrock.com/foi/chicago-169/1505ml-checks-18091-18147-25970/
+6/19/2015,18093,6834.09,"??????????  ""bulk narcotics destruction""???",??????,P048112,18093.pdf,,Overredaction,John Bumstead,5/31/16,,,https://www.muckrock.com/foi/chicago-169/1505ml-checks-18091-18147-25970/
+6/22/2015,18097,15504.01,Phones,Routine,P048112,18097.pdf,,,John Bumstead,5/31/16,,,https://www.muckrock.com/foi/chicago-169/1505ml-checks-18091-18147-25970/
+6/24/2015,18106,5705.75,Lexis Nexis,Surveillance,P048112,18106.pdf,,,John Bumstead,5/31/16,,,https://www.muckrock.com/foi/chicago-169/1505ml-checks-18091-18147-25970/
+7/1/2015,18108,108794.29,Enterprise rentals,Routine,P048112,18108.pdf,,,John Bumstead,5/31/16,,,https://www.muckrock.com/foi/chicago-169/1505ml-checks-18091-18147-25970/
+7/9/2015,18120,6174.55,"??????????  ""narcotics related investigations""???",??????,P048112,18120.pdf,,Overredaction,John Bumstead,5/31/16,,,https://www.muckrock.com/foi/chicago-169/1505ml-checks-18091-18147-25970/
+7/10/2015,18123,5154.9,Sony cameras and equipment,??????,P048112,18123.pdf,,,John Bumstead,5/31/16,,,https://www.muckrock.com/foi/chicago-169/1505ml-checks-18091-18147-25970/
+7/16/2015,18132,8616.01,Dell computers,Routine,P048112,18132.pdf,,,John Bumstead,5/31/16,,,https://www.muckrock.com/foi/chicago-169/1505ml-checks-18091-18147-25970/
+7/16/2015,18134,5411.2,Dell computers,Routine,P048112,18134.pdf,,,John Bumstead,5/31/16,,,https://www.muckrock.com/foi/chicago-169/1505ml-checks-18091-18147-25970/
+7/20/2015,18147,61771.34,Phones,Routine,P048112,18147.pdf,,,John Bumstead,5/31/16,,,https://www.muckrock.com/foi/chicago-169/1505ml-checks-18091-18147-25970/
 7/20/2015,18142,14980.25,Verizon BOC phones,Routine,P048201,18142.pdf,,,Candice Ahlstrand,6/1/16,6/9/16,6/15/16,https://www.muckrock.com/foi/chicago-169/illinois-freedom-of-information-act-request-1505-checks-cpd-18142-18203-25990/
 7/20/2015,18144,8500,Lexis Nexis,Surveillance,P048201,18144.pdf,,,Candice Ahlstrand,6/1/16,6/9/16,6/15/16,https://www.muckrock.com/foi/chicago-169/illinois-freedom-of-information-act-request-1505-checks-cpd-18142-18203-25990/
 7/27/2015,18155,20447.5,AT&T BOC Phones,Routine,P048201,18155.pdf,,,Candice Ahlstrand,6/1/16,6/9/16,6/15/16,https://www.muckrock.com/foi/chicago-169/illinois-freedom-of-information-act-request-1505-checks-cpd-18142-18203-25990/
