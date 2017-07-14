@@ -1,3 +1,6 @@
+# downloads of the FOIA requests (folder used by @bmintz, complain to them)
+tmp/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
